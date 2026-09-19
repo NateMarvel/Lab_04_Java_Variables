@@ -19,7 +19,7 @@ public class Main
     // step 10
     int numberOfKids = 2;
     boolean isRaining = true;
-    double priceOfGas = 4.21;
+    double priceOfGas = 4.19;
     int favoriteNumber = 89;
     double shoeSize = 10.5;
     String birthMonth = "January";
